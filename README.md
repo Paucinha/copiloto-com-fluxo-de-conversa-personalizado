@@ -29,9 +29,7 @@ O objetivo deste desafio é criar um Copiloto com Fluxo de Conversa Personalizad
 
 * Aumentar/diminuir a qualidade da resposta com GenAI
 
-[**Meu ChatBot**](https://copilotstudio.microsoft.com/environments/5465e3d7-20f2-edd4-8e3f-dd7a03a4afa4/bots/cr1f3_agenteDaDio/canvas?__version__=2&enableFileAttachment=true)
-
-https://copilotstudio.microsoft.com/environments/5465e3d7-20f2-edd4-8e3f-dd7a03a4afa4/bots/cr1f3_agenteDaDio/canvas?__version__=2&enableFileAttachment=true
+* [**Meu ChatBot**](https://copilotstudio.microsoft.com/environments/5465e3d7-20f2-edd4-8e3f-dd7a03a4afa4/bots/cr1f3_agenteDaDio/canvas?__version__=2&enableFileAttachment=true)
 
 ## Links Úteis
 
