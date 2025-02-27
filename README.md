@@ -1,2 +1,50 @@
-# copiloto-com-fluxo-de-conversa-personalizado
-Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
+# Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
+
+![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
+
+Crie um Copilot com um fluxo de conversa personalizado no Microsoft Copilot Studio. Aprenda a iniciar um copiloto do zero, customizar um tópico, personalizar mensagens de erro e ajustar a qualidade das respostas utilizando GenAI. Ao final, você terá um copiloto otimizado para oferecer interações mais precisas e eficientes.
+
+**Microsoft Copilot Studio | Inteligência Artificial (IA)**
+
+**Full-Stack | Básico**
+
+## Apresentação do Desafio
+
+O objetivo deste desafio é criar um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio.
+
+## Pré-requisitos 
+
+* Ter acesso a uma conta Microsoft 365
+
+* Ter um computador
+
+## Etapas do desafío
+
+* Criar um copilot e branco 
+[https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)
+
+* Customizar um tópico
+
+* Personalizar uma mensagem de erro de tópico
+
+* Aumentar/diminuir a qualidade da resposta com GenAI
+
+
+
+## Links Úteis
+
+* [Documentação do Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
+
+* [Copilot Studio](https://copilotstudio.microsoft.com)
+
+* [Romão´s Learn](https://romaos.com.br/learn/)
+
+##
+
+![text](https://assets.dio.me/IwGGaOEYVw9pPUMVGEaqp7eKn1gV22wDOHmmAmI0zDY/f:webp/h:221/q:80/L3RyYWNrcy9jb3Zlci83OWZiNzhkZC0xNTQ3LTQ0N2YtYTNkOC04ZGQwMWU1YWMzNTEucG5n)
+
+Projeto desenvolvido durante o [**Bootcamp Suzano - Python Developer**](https://www.dio.me/bootcamp/suzano-python-developer), fornecido pela [**DIO**](https://www.dio.me/)
+
+##
+
+- [By Páucinha](https://github.com/Paucinha)
