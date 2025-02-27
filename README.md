@@ -21,7 +21,7 @@ O objetivo deste desafio é criar um Copiloto com Fluxo de Conversa Personalizad
 ## Etapas do desafío
 
 * Criar um copilot e branco 
-[https://copilotstudio.microsoft.com](https://copilotstudio.microsoft.com)
+`https://copilotstudio.microsoft.com`
 
 * Customizar um tópico
 
@@ -33,9 +33,9 @@ O objetivo deste desafio é criar um Copiloto com Fluxo de Conversa Personalizad
 
 ## Links Úteis
 
-* [Documentação do Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
-
 * [Copilot Studio](https://copilotstudio.microsoft.com)
+
+* [Documentação do Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
 
 * [Romão´s Learn](https://romaos.com.br/learn/)
 
